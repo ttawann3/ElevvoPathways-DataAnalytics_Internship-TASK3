@@ -99,7 +99,19 @@ This project demonstrates how data cleaning and visualization can transform raw 
 ---
 
 ### Plots Preview:-
-![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/survey_report.pdf)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_corr_heatmap.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_countries_pie.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_cumulative_by_year_area.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_education_bar.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_education_by_job_stacked.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_gender_pie.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_jobs_bar.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_languages_hbar.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_respondents_by_year_line.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_top5_languages_donut.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_vizlibs_bar.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_yrs_experience_density.png)
+![Preview](https://github.com/Abdullah321Umar/ElevvoPathways-DataAnalytics_Internship-TASK3/blob/main/chart_yrs_experience_hist.png)
 
 
 ---
