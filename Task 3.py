@@ -328,7 +328,7 @@ def main(input_csv, out_dir):
     with PdfPages(report_path) as pdf:
         fig = plt.figure(figsize=(11,8.5))
         plt.axis('off')
-        title = "Data Science Survey (2018-2021)\\nCleaning & Insight Report"
+        title = "Data Science Survey (2018-2021)\nCleaning & Insight Report"
         plt.text(0.5, 0.6, title, ha='center', va='center', fontsize=20, wrap=True)
         subtitle = f"Generated automatically — cleaned rows: {df.shape[0]} (orig {orig_shape[0]}), columns: {df.shape[1]}"
         plt.text(0.5, 0.5, subtitle, ha='center', va='center', fontsize=11)
@@ -340,7 +340,7 @@ def main(input_csv, out_dir):
         text_lines = ["Top Insights (automatically extracted):", ""]
         for i,ins in enumerate(insights[:10], start=1):
             text_lines.append(f"{i}. {ins[0]} — {ins[1]} ({ins[2]})")
-        plt.text(0.02, 0.98, "\\n".join(text_lines), va='top', fontsize=12, wrap=True)
+        plt.text(0.02, 0.98, "\n".join(text_lines), va='top', fontsize=12, wrap=True)
         pdf.savefig(fig)
         plt.close(fig)
 
@@ -371,6 +371,7 @@ if __name__ == "__main__":
     parser.add_argument("--out", "-o", default="c:/Users/Abdullah Umer/Desktop/Elevvo Pathways Internship/Task 3/outputs", help="Output directory")
     args = parser.parse_args()
     main(args.input, args.out)
+
 
 
 
